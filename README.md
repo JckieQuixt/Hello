@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Welcome to my Snippets" src="https://static.vecteezy.com/system/resources/thumbnails/067/943/942/small/welcome-sign-on-a-blackboard-png.png"/>
+  <img alt="Welcome to my Snippets" src="https://img.magnific.com/free-vector/stylish-welcome-lettering-banner-opening-new-office_1017-50438.jpg?semt=ais_hybrid&w=740&q=80"/>
 </p>
 
 ### Hey I´m **Arda/Ally** 👋
