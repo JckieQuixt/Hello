@@ -22,14 +22,6 @@
 ---
 
 ### My Favorite Parts of Coding
-⬜🟧🟧🟧🟧🟧🟧🟧🟧🟧   
-⬜⬜🟧🟧🟧🟧🟧🟧🟧🟧  
-⬜⬜⬜🟧🟧🟧🟧🟧🟧🟧   
-⬜⬜⬜⬜🟧🟧🟧🟧🟧🟧   
-⬜⬜⬜⬜🟧🟧🟧🟧🟧🟧   
-⬜⬜⬜⬜⬜🟧🟧🟧🟧🟧   
-⬜⬜⬜⬜⬜⬜⬜🟧🟧🟧   
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟥 
 
 ---
 
@@ -48,18 +40,15 @@
 
 <details>
 <summary>Not familiar with the Icons?</summary>
-PHP, MYSQL, HTML5, Java, CSS, C, Python, JavaScript, B4X.
+
 </details>
 
 ---
 
 ### Tools i use:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="25" height="25" title="Jetbrains"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="PHP-Storm" width="25" height="25" title="PHP-Storm"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" alt="Data-Grip" width="25" height="25" title="Data-Grip"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="C-Lion" width="25" height="25" title="C-Lion"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" alt="Web-Storm" width="25" height="25" title="Web-Storm"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="25" height="25" title="IntelliJ"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS-Code" width="25" height="25" title="VS-Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Win 11" width="25" height="25" title="Win 11"/>
@@ -72,7 +61,7 @@ PHP, MYSQL, HTML5, Java, CSS, C, Python, JavaScript, B4X.
 
 <details>
 <summary>Not familiar with the Icons?</summary>
-Jetbrains, PHP Storm, Data Grip, C Lion, Web Storm, IntelliJ, Visual Studio Code, Windows 11, Trello, Putty, Git, Gimp, Anywhere Software B4X.
+
 </details>
 
 ---
