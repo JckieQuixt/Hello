@@ -22,13 +22,6 @@ Here are some of the projects I've worked on:
 
 ### 🖥️ Project Name
 
-**Technologies:** Python, C, JavaScript, ...
-
-Short description of the project and what you built.
-
-- Main feature or functionality
-- Something interesting you implemented
-- What you learned from the project
 
 🔗 [View Project](#)
 
