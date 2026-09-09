@@ -2,13 +2,18 @@
   <img alt="Welcome to my Snippets" src="https://static.vecteezy.com/system/resources/thumbnails/067/943/942/small/welcome-sign-on-a-blackboard-png.png"/>
 </p>
 
-### Hey I´m **Arda/Ally** 👋
+### Hey I´m **Arda** 👋
 
 ## Desc
+I'm a Fachinformatiker for Application Development and an IT enthusiast from Frankfurt, Germany.
 
+I'm passionate about software development, cybersecurity, DevOps, IT infrastructure and system administration. I enjoy exploring how software, systems, networks and hardware work together.
+
+I like learning by building projects, experimenting with new technologies and solving technical problems. My goal is to continuously expand my knowledge and gain hands-on experience across different areas of IT.
 ---
 
 ### My Projects
+Here are some of the projects I've worked on:
 
 
 ---
@@ -17,8 +22,17 @@
 
 ---
 
-### Areas I'd Like to Explore
-
+### Areas I'm Interested In
+Cybersecurity & IT Security
+Software Development
+DevOps & Automation
+IT Infrastructure
+Linux & System Administration
+Networks & Networking
+Web Development
+Databases & SQL
+Cloud Technologies
+Hardware & Computer Systems
 ---
 
 ### My Favorite Parts of Coding
@@ -35,7 +49,6 @@
 </p>
 
 <details>
-<summary>Not familiar with the Icons?</summary>
 
 </details>
 
@@ -52,7 +65,6 @@
 </p>
 
 <details>
-<summary>Not familiar with the Icons?</summary>
 
 </details>
 
