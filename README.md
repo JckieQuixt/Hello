@@ -47,16 +47,12 @@
 
 ### Tools i use:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="PHP-Storm" width="25" height="25" title="PHP-Storm"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="C-Lion" width="25" height="25" title="C-Lion"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="25" height="25" title="IntelliJ"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS-Code" width="25" height="25" title="VS-Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Win 11" width="25" height="25" title="Win 11"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="25" height="25" title="Trello"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="Putty" width="25" height="25" title="Putty"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="25" height="25" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="Gimp" width="25" height="25" title="Gimp"/>
-<img src="ReadMe-Content/B4X.png" alt="JavaScript" width="25" height="25" title="Anywhere Software B4X"/>
 </p>
 
 <details>
