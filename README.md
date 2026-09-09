@@ -54,16 +54,16 @@ Short description of the project and its main features.
 
 ## 🔐 Areas I'm Interested In
 
-- 🛡️ Cybersecurity & IT Security
-- 💻 Software Development
-- ⚙️ DevOps & Automation
-- 🖥️ IT Infrastructure
-- 🐧 Linux & System Administration
-- 🌐 Networks & Networking
-- 🌍 Web Development
-- 🗄️ Databases & SQL
-- ☁️ Cloud Technologies
-- 🔧 Hardware & Computer Systems
+- Cybersecurity & IT Security
+- Software Development
+- DevOps & Automation
+- IT Infrastructure
+- Linux & System Administration
+- Networks & Networking
+- Web Development
+- Databases & SQL
+- Cloud Technologies
+- Hardware & Computer Systems
 
 ---
 
@@ -181,15 +181,15 @@ I'm always interested in learning new technologies and expanding my technical sk
 
 I'm currently interested in gaining more experience in:
 
-- 🔐 Cybersecurity
-- ⚙️ DevOps
-- 🐧 Linux & System Administration
-- 🌐 Networking
-- ☁️ Cloud Technologies
-- 🐳 Docker & Containers
-- 🔄 CI/CD
-- 🗄️ Databases & SQL
-- 🔧 IT Infrastructure
+- Cybersecurity
+- DevOps
+- Linux & System Administration
+- Networking
+- Cloud Technologies
+- Docker & Containers
+- CI/CD
+- Databases & SQL
+- IT Infrastructure
 
 ---
 
