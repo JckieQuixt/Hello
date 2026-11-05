@@ -189,7 +189,7 @@ I'm currently interested in gaining more experience in:
 ## 📫 How to Reach Me
 
 - **Email:** [ardasezik2004@outlook.de](mailto:ardasezik2004@outlook.de)
-- **GitHub:** [github.com/s0ra52](https://github.com/s0ra52)
+- **GitHub:** [github.com/JckieQuixt](https://github.com/JckieQuixt)
 
 ---
 
