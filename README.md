@@ -136,7 +136,7 @@ I'm particularly interested in the connection between **development, infrastruct
 
 ---
 
-## 🛠️ Tools I Use
+## Tools I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="CLion" width="40" height="40" title="CLion"/>
@@ -170,7 +170,7 @@ I'm always interested in learning new technologies and expanding my technical sk
 
 ---
 
-## 📚 Areas I'd Like to Explore
+## Areas I'd Like to Explore
 
 I'm currently interested in gaining more experience in:
 
@@ -186,20 +186,20 @@ I'm currently interested in gaining more experience in:
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - **Email:** [ardasezik2004@outlook.de](mailto:ardasezik2004@outlook.de)
 - **GitHub:** [github.com/JckieQuixt](https://github.com/JckieQuixt)
 
 ---
 
-## 🎮 Beyond Coding
+## Beyond Coding
 
 When I'm not working on IT projects, I enjoy:
 
 🎮 **Gaming** · 🎵 **Music Production** · 🎨 **Drawing**
 
-### 🎮 Favorite Games
+### Favorite Games
 
 - League of Legends
 - Mouthwashing
