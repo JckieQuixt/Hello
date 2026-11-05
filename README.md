@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me!
 
 I'm a **Fachinformatiker for Application Development** and an IT enthusiast from **Frankfurt, Germany**.
 
@@ -16,18 +16,18 @@ I like learning by building projects, experimenting with new technologies and so
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 Here are some of the projects I've worked on:
 
-### 🖥️ Project Name
+### Project Name
 
 
 🔗 [View Project](#)
 
 ---
 
-### 🌐 Project Name
+### Project Name
 
 **Technologies:** HTML, CSS, JavaScript
 
@@ -41,11 +41,11 @@ Short description of the project and its main features.
 
 ---
 
-> 🚧 More projects are currently in development.
+> More projects are currently in development.
 
 ---
 
-## 🔐 Areas I'm Interested In
+## Areas I'm Interested In
 
 - Cybersecurity & IT Security
 - Software Development
@@ -60,7 +60,7 @@ Short description of the project and its main features.
 
 ---
 
-## ⚙️ DevOps
+## DevOps
 
 I'm particularly interested in the connection between **software development and IT operations**.
 
@@ -79,7 +79,7 @@ I'm currently exploring DevOps concepts through personal projects and hands-on l
 
 ---
 
-## 🛡️ Cybersecurity
+## Cybersecurity
 
 Cybersecurity is one of the areas of IT that interests me the most.
 
@@ -98,7 +98,7 @@ I enjoy learning through **hands-on projects, experimentation and practical exer
 
 ---
 
-## 🧠 My Favorite Parts of Coding
+## My Favorite Parts of Coding
 
 I enjoy understanding **how things work behind the scenes**.
 
@@ -116,7 +116,7 @@ I'm particularly interested in the connection between **development, infrastruct
 
 ---
 
-## 💻 Languages & Technologies
+## Languages & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
@@ -151,11 +151,11 @@ I'm particularly interested in the connection between **development, infrastruct
 
 ---
 
-## 🎯 What I'm Currently Learning
+## What I'm Currently Learning
 
 I'm continuously working on improving my knowledge in:
 
-- Python
+- Assembly
 - JavaScript
 - C
 - Web Development
