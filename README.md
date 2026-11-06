@@ -23,7 +23,7 @@ I learn best by **building things**: starting projects, trying out new technolog
 ## Projects
 
 ### Quila
-Quila is my programming language you can write in plain words (set total to 5) or in compact symbols (total = 5), and both run exactly the same. It’s interpreted in Python and comes with a VS Code extension. Quila Plus goes further: one file can mix Python, C, JavaScript and more, run with a single command.
+Quila is my own programming language you can write in plain words (set total to 5) or in compact symbols (total = 5), and both run exactly the same. It’s interpreted in Python and comes with a VS Code extension. Quila Plus goes further: one file can mix Python, C, JavaScript and more, run with a single command.
 **Technologies:** Python · C · JavaScript · *Rust (planned)*
 
 ---
@@ -50,7 +50,7 @@ ATOM AI is **my own AI**, which I created using **Llama** and **Qwen**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-  <img src="https://icon-pack.com/icon/devicons/DiSwift?size=256&color=%23ffffff"/>
+  <img src="https://devicons.io/devicons/icons/swift.svg"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
