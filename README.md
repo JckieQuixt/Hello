@@ -1,213 +1,135 @@
+<h1 align="center">Hey, I'm Arda 👋</h1>
+
 <p align="center">
-  <img alt="Welcome to my GitHub" src="https://static.vecteezy.com/system/resources/thumbnails/067/943/942/small/welcome-sign-on-a-blackboard-png.png"/>
+  <strong>Application Developer (Fachinformatiker für Anwendungsentwicklung)</strong> · Frankfurt, Germany<br/>
+  Software development · Cybersecurity · DevOps · Linux
 </p>
 
-<h3 align="center">Hey, I'm <strong>Arda</strong> 👋</h3>
+<p align="center">
+  <a href="mailto:ardasezik2004@outlook.de"><img alt="Email" src="https://img.shields.io/badge/Email-ardasezik2004%40outlook.de-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="https://github.com/JckieQuixt"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-JckieQuixt-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## About Me!
+## 👨‍💻 About Me
 
-I'm a **Fachinformatiker for Application Development** and an IT enthusiast from **Frankfurt, Germany**.
+I'm an IT enthusiast who wants to understand **how software, systems, networks and hardware work together**. My main interests are **software development, cybersecurity, DevOps and system administration**.
 
-I'm passionate about **software development, cybersecurity, DevOps, IT infrastructure and system administration**. I enjoy exploring how software, systems, networks and hardware work together.
-
-I like learning by building projects, experimenting with new technologies and solving technical problems. My goal is to continuously expand my knowledge and gain hands-on experience across different areas of IT.
+I learn best by **building things**: starting projects, trying out new technologies and debugging until it works. My goal is to keep growing and gather hands-on experience across as many areas of IT as possible.
 
 ---
 
-## My Projects
+## 🚀 Projects
 
-Here are some of the projects I've worked on:
+### 🧩 Quila
 
-### Project Name
+**Technologies:** Python · C · JavaScript · *Rust (planned)*
 
+Quila is my own project that **runs multiple programming languages together and combines them into a single output**. Instead of treating every language as an isolated program, Quila lets them work side by side.
 
-🔗 [View Project](#)
-
----
-
-### Project Name
-
-**Technologies:** HTML, CSS, JavaScript
-
-Short description of the project and its main features.
-
-- Main feature or functionality
-- Something interesting you implemented
-- What you learned from the project
-
-🔗 [View Project](#)
+- Runs Python, C and JavaScript in one output
+- Rust support (via `rustc`) is planned
+- Current demo is still a simulation, with the real implementation in progress
 
 ---
 
-> More projects are currently in development.
+### ⚛️ ATOM AI
+
+**Technologies:** Llama · Qwen
+
+ATOM AI is **my own AI**, which I created using **Llama** and **Qwen**.
+
+- Built with Llama and Qwen as the foundation
+- My personal AI project and my first step into working with language models
+- A hands-on way to learn how AI models work and how to use them
 
 ---
 
-## Areas I'm Interested In
-
-- Cybersecurity & IT Security
-- Software Development
-- DevOps & Automation
-- IT Infrastructure
-- Linux & System Administration
-- Networks & Networking
-- Web Development
-- Databases & SQL
-- Cloud Technologies
-- Hardware & Computer Systems
+> 🛠️ More projects are currently in development.
 
 ---
 
-## DevOps
+## 🧰 Languages & Tools
 
-I'm particularly interested in the connection between **software development and IT operations**.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="CLion" width="40" height="40" title="CLion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40" title="GIMP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows 11" width="40" height="40" title="Windows 11"/>
+</p>
 
-I'm interested in learning more about:
-
-- Git & Version Control
-- CI/CD
-- Automation
-- Docker & Containers
-- Linux
-- Servers
-- Deployment
-- Cloud Technologies
-
-I'm currently exploring DevOps concepts through personal projects and hands-on learning.
-
----
-
-## Cybersecurity
-
-Cybersecurity is one of the areas of IT that interests me the most.
-
-I'm interested in learning more about:
-
-- Network Security
-- Web Security
-- Secure Software Development
-- Linux Security
-- Authentication & Authorization
-- Vulnerability Analysis
-- IT Security Concepts
-- Capture The Flag (CTF) challenges
-
-I enjoy learning through **hands-on projects, experimentation and practical exercises**.
+| | |
+|---|---|
+| **Programming** | `Python` · `C` · `Java` · `JavaScript` |
+| **Web** | `HTML` · `CSS` · `JavaScript` |
+| **Tools** | `Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `CLion` · `GIMP` |
 
 ---
 
-## My Favorite Parts of Coding
+## 🎯 What Drives Me
 
-I enjoy understanding **how things work behind the scenes**.
+I enjoy looking **behind the scenes** and understanding why things work the way they do:
 
-I especially like:
-
-- Solving technical problems
-- Finding bugs and fixing them
-- Learning how systems work
+- Solving technical problems and hunting down bugs
 - Building things from scratch
-- Experimenting with new technologies
 - Automating repetitive tasks
 - Improving and optimizing existing code
+- Experimenting with new technologies
 
-I'm particularly interested in the connection between **development, infrastructure and security**.
-
----
-
-## Languages & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-</p>
-
-**Programming Languages**
-
-`Python` · `C` · `Java` · `JavaScript`
-
-**Web Development**
-
-`HTML` · `CSS` · `JavaScript`
+What fascinates me most is the point where **development, infrastructure and security** meet.
 
 ---
 
-## Tools I Use
+## 🔐 Cybersecurity
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="CLion" width="40" height="40" title="CLion"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" title="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows 11" width="40" height="40" title="Windows 11"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40" title="GIMP"/>
-</p>
+One of the areas of IT that interests me the most. I'm learning through hands-on projects, experiments and practical exercises.
 
-`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `CLion` · `GIMP`
+- Network & web security
+- Secure software development
+- Linux security
+- Authentication & authorization
+- Vulnerability analysis
+- Capture The Flag (CTF) challenges
 
 ---
 
-## What I'm Currently Learning
+## ⚙️ DevOps
 
-I'm continuously working on improving my knowledge in:
+I'm interested in the link between **software development and IT operations**, and I'm exploring it through personal projects.
 
-- Assembly
-- JavaScript
-- C
-- Web Development
-- Git & GitHub
-- Linux
-- Networking
-- Cybersecurity
-- DevOps
-- Automation
-
-I'm always interested in learning new technologies and expanding my technical skill set.
+- Git & version control
+- CI/CD and automation
+- Docker & containers
+- Linux, servers and deployment
+- Cloud technologies
 
 ---
 
-## Areas I'd Like to Explore
+## 📚 Currently Learning
 
-I'm currently interested in gaining more experience in:
+`Assembly` · `C` · `JavaScript` · `Web Development` · `Git & GitHub` · `Linux` · `Networking` · `Cybersecurity` · `DevOps` · `Automation`
 
-- Cybersecurity
-- DevOps
-- Linux & System Administration
-- Networking
-- Cloud Technologies
-- Docker & Containers
-- CI/CD
-- Databases & SQL
-- IT Infrastructure
+**Next up:** Docker, CI/CD, databases & SQL, cloud technologies and IT infrastructure.
 
 ---
 
-## How to Reach Me
+## 🎮 Beyond Coding
 
-- **Email:** [ardasezik2004@outlook.de](mailto:ardasezik2004@outlook.de)
-- **GitHub:** [github.com/JckieQuixt](https://github.com/JckieQuixt)
+When I'm not working on IT projects, you'll find me **gaming**, **producing music** or **drawing**.
 
----
-
-## Beyond Coding
-
-When I'm not working on IT projects, I enjoy:
-
-🎮 **Gaming** · 🎵 **Music Production** · 🎨 **Drawing**
-
-### Favorite Games
-
-- League of Legends
-- Mouthwashing
-- Eternal Return
-- Dark and Darker
+**Favorite games:** League of Legends · Mouthwashing · Eternal Return · Dark and Darker
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile! 👋
+  Thanks for stopping by! Feel free to reach out. 👋
 </p>
