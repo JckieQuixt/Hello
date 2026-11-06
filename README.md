@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an IT enthusiast who wants to understand **how software, systems, networks and hardware work together**. My main interests are **software development, cybersecurity, DevOps and system administration**.
 
@@ -20,21 +20,15 @@ I learn best by **building things**: starting projects, trying out new technolog
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧩 Quila
-
+### Quila
+Quila is my programming language you can write in plain words (set total to 5) or in compact symbols (total = 5), and both run exactly the same. It’s interpreted in Python and comes with a VS Code extension. Quila Plus goes further: one file can mix Python, C, JavaScript and more, run with a single command.
 **Technologies:** Python · C · JavaScript · *Rust (planned)*
-
-Quila is my own project that **runs multiple programming languages together and combines them into a single output**. Instead of treating every language as an isolated program, Quila lets them work side by side.
-
-- Runs Python, C and JavaScript in one output
-- Rust support (via `rustc`) is planned
-- Current demo is still a simulation, with the real implementation in progress
 
 ---
 
-### ⚛️ ATOM AI
+### ATOM AI
 
 **Technologies:** Llama · Qwen
 
@@ -46,36 +40,35 @@ ATOM AI is **my own AI**, which I created using **Llama** and **Qwen**.
 
 ---
 
-> 🛠️ More projects are currently in development.
+> More projects are currently in development.
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://icon-pack.com/icon/devicons/DiSwift?size=256&color=%23ffffff"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" title="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="CLion" width="40" height="40" title="CLion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40" title="GIMP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows 11" width="40" height="40" title="Windows 11"/>
 </p>
 
 | | |
 |---|---|
-| **Programming** | `Python` · `C` · `Java` · `JavaScript` |
+| **Programming** | `Python` · `C` · `Swift` · `Java` |
 | **Web** | `HTML` · `CSS` · `JavaScript` |
-| **Tools** | `Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `CLion` · `GIMP` |
+| **Tools** | `Git` · `GitHub` · `VS Code` · `IntelliJ IDEA` · `GIMP` |
 
 ---
 
-## 🎯 What Drives Me
+## What Drives Me
 
 I enjoy looking **behind the scenes** and understanding why things work the way they do:
 
@@ -89,7 +82,7 @@ What fascinates me most is the point where **development, infrastructure and sec
 
 ---
 
-## 🔐 Cybersecurity
+## Cybersecurity
 
 One of the areas of IT that interests me the most. I'm learning through hands-on projects, experiments and practical exercises.
 
@@ -102,7 +95,7 @@ One of the areas of IT that interests me the most. I'm learning through hands-on
 
 ---
 
-## ⚙️ DevOps
+## DevOps
 
 I'm interested in the link between **software development and IT operations**, and I'm exploring it through personal projects.
 
@@ -114,7 +107,7 @@ I'm interested in the link between **software development and IT operations**, a
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 `Assembly` · `C` · `JavaScript` · `Web Development` · `Git & GitHub` · `Linux` · `Networking` · `Cybersecurity` · `DevOps` · `Automation`
 
@@ -122,7 +115,7 @@ I'm interested in the link between **software development and IT operations**, a
 
 ---
 
-## 🎮 Beyond Coding
+## Beyond Coding
 
 When I'm not working on IT projects, you'll find me **gaming**, **producing music** or **drawing**.
 
